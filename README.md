@@ -1,13 +1,13 @@
 # V
 
-#INTRODUCTION TO AI
--why ML>
--Advantages
+#INTRODUCTION TO AI  
+-why ML>  
+-Advantages  
 -
 
-1.Health
-2.Government
-3.Sports
+1.Health  
+2.Government  
+3.Sports  
 
 ```python
 a=3
