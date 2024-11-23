@@ -1,31 +1,10 @@
-# V
-
-#INTRODUCTION TO AI  
--why ML>  
--Advantages  
--
-
-1.Health  
-2.Government  
-3.Sports  
-
-```python
-a=3
-b=4
-print(a+b)
-```
-
-|HEAD1|HEAD2|HEAD3|
+|S.no|Assignment no|Link|
 |-----|-----|-----|
-|First column|Scond column|third column|
-|First column|Scond column|third column|
-|First column|Scond column|third column|
-|First column|Scond column|third column|
+|1.|Python basics|[Assignment 1](https://github.com/varsha-69/V/blob/2c8cb634fedd8d3b8bc77beec5a29cff7db0fd49/Assignments/Assignment_01.ipynb)|
+|2.|NumPy programs|[Assignment 2](https://github.com/varsha-69/V/blob/2c8cb634fedd8d3b8bc77beec5a29cff7db0fd49/Assignments/Assignment_02.ipynb)|
+|3.|pandas programs|[Assignment 3](https://github.com/varsha-69/V/blob/2c8cb634fedd8d3b8bc77beec5a29cff7db0fd49/Assignments/Assignment_03.ipynb)|
+|4.|||
 
-
-
-[Link_to_be_displayed](http://www.google.com)  
-[Link_image]()
 
 #Introduction to AI/ML  
 
