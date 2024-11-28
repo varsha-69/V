@@ -6,7 +6,7 @@
 |4.|||
 
 
-#Introduction to AI/ML  
+# Introduction to AI/ML  
 
 -Artificial intelligence allow machines to sense, reason, act, and adapt like humansThe broader concept of enabling machines to mimic human behavior and decision-making. AI systems are built using ML and other techniques.  
 -Data scientists study patterns in data to create ML models, and then optimize those models based on the patterns.  
@@ -18,7 +18,7 @@
 -Computer vision: Uses algorithms to extract, process, and analyze information from digital images and videos.  
 -Robotics: Uses AI to develop robots that can interpret environments, manipulate objects, and interact with humans.  
 
-#Applications in different domains  
+# Applications in different domains  
 
 1.Finance: According to some recent surveys, 80% of banks accept that AI can provide them benefits according to their decisions in finance. From providing corporate finance advice to predicting the future outcome relate to finance, AI is capable of them Also it is used to send automated tests and mail, predict risk in loans, and detect any unwanted transactional activities, of the targeted customers. Spam and fraud filters, uncharacterized actions, responding to threats, etc are the tools that help in the field.  
 
@@ -33,7 +33,7 @@
 #Difference between AI ML and DL:  
 -AI is a computer algorithm that exhibits intelligence via decision-making. ML is an algorithm of AI that assists systems to learn from different types of datasets. DL is an algorithm of ML that uses several layers of neural networks to analyze data and provide output accordingly.  
 
-#Python Fundamentals  
+# Python Fundamentals  
 
 Introduction:  
 -Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.  
