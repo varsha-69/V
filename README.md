@@ -3,7 +3,10 @@
 |1.|Python basics|[Assignment 1](https://github.com/varsha-69/V/blob/2c8cb634fedd8d3b8bc77beec5a29cff7db0fd49/Assignments/Assignment_01.ipynb)|
 |2.|NumPy programs|[Assignment 2](https://github.com/varsha-69/V/blob/2c8cb634fedd8d3b8bc77beec5a29cff7db0fd49/Assignments/Assignment_02.ipynb)|
 |3.|pandas programs|[Assignment 3](https://github.com/varsha-69/V/blob/2c8cb634fedd8d3b8bc77beec5a29cff7db0fd49/Assignments/Assignment_03.ipynb)|
-|4.|||
+|4.|Linear Regression on and excel data|[Assignment 4](https://github.com/varsha-69/V/blob/2c8cb634fedd8d3b8bc77beec5a29cff7db0fd49/Assignments/Assignment_04.ipynb)|
+|5.|Help function on sklearn packages|[Assignment 5](https://github.com/varsha-69/V/blob/2c8cb634fedd8d3b8bc77beec5a29cff7db0fd49/Assignments/Assignment_05.ipynb)|
+|6.||[Assignment 6]()|
+||||
 
 
 # Introduction to AI/ML  
