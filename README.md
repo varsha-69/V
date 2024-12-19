@@ -59,3 +59,11 @@ Python Functions is a block of statements that return the specific task. The ide
 
 -Why is python predominantly used?  
 Python is more commonly used for ML compared to Java. Since Python has extensive libraries (NumPy, TensorFlow) and simpler syntax, enabling faster development and experimentation, it is the preferred programming language.  
+
+# Revision  
+-Machine Learning lifecycle
+Defining problem set  
+extract data  
+clean data  
+preprocessing of data  
+labeling and coding  
